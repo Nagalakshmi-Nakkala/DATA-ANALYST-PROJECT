@@ -10,7 +10,7 @@ international routes.
 - **Excel** — Data Cleaning & Preprocessing
 - **SQL** — Data Querying & Analysis
 - **Power BI** — Interactive Dashboard & Visualization
-- **Tableau** — Interactive Dashboard & Story
+- **Tableau** — Interactive Dashboard 
 
 ## Dataset
 - Total Airlines: 1.548K
