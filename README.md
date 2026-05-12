@@ -1,32 +1,34 @@
-# High Cloud Airline Data Analysis
+# High Cloud Airlines Data Analysis
 
-## Project Overview
-This project analyzes airline performance data 
-to identify flight trends, passenger patterns, 
-and carrier insights across domestic and 
-international routes.
+## Overview
+Analyzed 2,136 flights across 1,548 airlines to identify 
+passenger trends, flight distance patterns, and yearly 
+performance using Excel, SQL, Power BI, and Tableau.
 
-## Tools Used
-- **Excel** — Data Cleaning & Preprocessing
-- **SQL** — Data Querying & Analysis
-- **Power BI** — Interactive Dashboard & Visualization
-- **Tableau** — Interactive Dashboard 
+## Tools & Technologies
+- Excel — Data Cleaning & Pivot Tables
+- SQL — Data Querying & Analysis
+- Power BI — Interactive Dashboard (3 pages)
+- Tableau — Visual Analytics
+
+## Key Findings
+- Total Passengers: 87K across all airlines
+- Available Seats: 140K with 58M payload capacity
+- Santa Barbara Airlines leads with 6,477 passengers
+- Majority flights (1,331) cover less than 500 miles
+- Domestic US Carriers dominate with 129 airlines
+- Peak flights recorded in 2008 (2,136 flights)
+
+## Dashboard Features
+- 5 KPI Cards (Airlines, Flights, Passengers, Seats, Payload)
+- Top Airlines by Passengers table
+- Flights by Distance bar chart
+- Flights by Year treemap
+- Flight Type donut chart
+- Slicers (Carrier, Flight Type, Quarter, Year)
+- 3 Dashboard pages
+
 
 ## Dataset
-- Total Airlines: 1.548K
-- Total Flights: 2,136
-- Total Passengers: 87K
-- Available Seats: 140K
-- Payload: 58M
-
-## Key Insights
-- Santa Barbara Airlines has highest passengers (6,477)
-- Majority flights cover Less Than 500 miles
-- Domestic US Carriers dominate (129 airlines)
-- 2008 had highest flights (1,438)
-- Q1-Q4 analysis available across 2008-2013
-
-## Workflow
-Raw Data → Excel (Clean) → SQL (Query) 
-→ Power BI (Visualize) → Tableau (Visualizations)
+High Cloud Airlines Dataset — Kaggle
 
